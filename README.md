@@ -1,1 +1,1 @@
-# Distributed-Systems-Dependability-Project-Group-Communication-
+# Reliable Group Communication among Peers
